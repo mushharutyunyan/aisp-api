@@ -13,7 +13,7 @@ composer install
 php artisan migrate --seed
 ```
 ```bash
-run php artisan passport:client --password
+php artisan passport:client --password
 ```
   - What should we name the password grant client?
     - any name you want
